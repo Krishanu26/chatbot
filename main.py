@@ -4,7 +4,7 @@ import sys
 import os
 from langchain_core.prompts import ChatPromptTemplate
 
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]="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"
 template="""
 Answer the qustion below.
 
